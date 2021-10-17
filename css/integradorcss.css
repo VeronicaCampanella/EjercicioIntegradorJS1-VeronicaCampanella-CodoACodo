@@ -1,0 +1,26 @@
+.imglogo{ 
+    width: 200px; 
+    height: 100px;
+}
+#Conteinerimg{
+    height: 1000px;
+    
+}
+#Titulo{
+    text-align: center;
+}
+
+#ConteinerCards{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+#img2{
+    width: 650px;
+    height: 400px;
+    }
+
+#divform{
+    text-align: center;
+}
